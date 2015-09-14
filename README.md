@@ -1,16 +1,18 @@
-# Application Name
+# Factorial Finder
 
-##### _{Brief description of application}, {Date of current version}_
+##### _JavaScript BDD practice for Epicodus, 14 September 2015_
 
-#### By **Molly Waggett**
+#### By **Summer Brochtrup & Molly Waggett**
 
 ## Description
 
-{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}
+This webpage allows a user to enter a number to find out its factorial.
 
 ## Setup
 
 * Clone this repository.
+* Open the index.html file in your browser.
+* Go!
 
 ## Technologies Used
 
@@ -21,7 +23,7 @@
 
 ### Legal
 
-Copyright (c) 2015 **Molly Waggett**
+Copyright (c) 2015 **Summer Brochtrup & Molly Waggett**
 
 This software is licensed under the MIT license.
 
