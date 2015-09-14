@@ -5,5 +5,5 @@ describe('factorial', function() {
 
   it("returns 120 when given 5", function() {
     expect(factorial(5)).to.equal(120);
-  })
+  });
 });
